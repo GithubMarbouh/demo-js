@@ -18,4 +18,7 @@ sayHello("Ali");
 sayHello("kamal")
 sayHello("master_m4")
 
+sayHello("kamal");
+sayHello("b1_m1");
+sayHello("b1_m2");
 
