@@ -14,4 +14,7 @@ function sayHello(userName) {
 
 sayHello("Osama");
 sayHello("Sayed");
-sayHello("Ali");
+sayHello("Ali"); 
+sayHello("kamal")
+
+
