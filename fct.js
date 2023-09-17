@@ -16,6 +16,6 @@ sayHello("Osama");
 sayHello("Sayed");
 sayHello("Ali"); 
 sayHello("kamal")
-sayHello("master_m4")
-
+sayHello("master_m4");
+sayHello("b2_m1");
 
